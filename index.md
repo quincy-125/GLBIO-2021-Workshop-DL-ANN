@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GLBIO 2021 Workshop - Into to Deep Learning by Creating Artificial Neural Network (ANN) in Python and R
 
 You can use the [editor on GitHub](https://github.com/quincy-125/GLBIO-2021-Workshop-DL-ANN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
